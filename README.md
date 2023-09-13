@@ -27,7 +27,7 @@
 
 You can <strong> access the source code of the initial project </strong> or <strong> download it </strong>
 
-### 🛠️ Open & Run Quiz
+### 🛠️ Open & Run Secret Number
 
 To run the **Secret Number** just open the link **Link** or download the repository and open the file <strong> index.html </strong>
 
